@@ -8,14 +8,6 @@
 
 ---
 
-## 📊 My GitHub Activity
-Here is the image you provided — included cleanly:
-
-<img src="https://raw.githubusercontent.com/abrar791/abrar791/main/contributions.png" width="800"/>
-
-> *(Upload the image to your repo as `contributions.png` — I’ll tell you how below.)*
-
----
 
 ## 🔥 GitHub Stats
 
