@@ -43,14 +43,7 @@ Here is the image you provided — included cleanly:
 
 ---
 
-## 📌 Featured Projects
 
-<div align="center">
-
-[![ATM System](https://github-readme-stats.vercel.app/api/pin/?username=abrar791&repo=ATM-Management-System&theme=tokyonight)](https://github.com/abrar791/ATM-Management-System)
-[![SD-C243019](https://github-readme-stats.vercel.app/api/pin/?username=abrar791&repo=SD-C243019&theme=tokyonight)](https://github.com/abrar791/SD-C243019)
-
-</div>
 
 ---
 
@@ -61,18 +54,9 @@ Here is the image you provided — included cleanly:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abrar_iram_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17kpCER3tJ/)
   
-### Discord: **abrar1485**
 
-</div>
-
----
 
 ## ❤️ Thanks for visiting!
 *I’m always learning, improving, and building. Stay tuned for more projects!*  
 ?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
----
-*Made with ♥ — keep coding.*
