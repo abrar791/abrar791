@@ -1,15 +1,4 @@
-<!-- Hero Section -->
-<div align="center">
-  
-# 👋 Hi, I'm **Abrar**
-### CSE Student at *International Islamic University Chittagong (IIUC)*  
-💻 Passionate about Web Dev, Java, C, and building clean software  
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260">
-
-</div>
-
----
 
 ## 🚀 About Me
 - 🎓 Studying **Computer Science & Engineering** at IIUC  
