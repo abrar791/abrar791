@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 Studying **Computer Science & Engineering** at IIUC  
-- 🔭 Working on: **ATM Management System**, **SD-C243019**  
-- 🌱 Learning: Java OOP, Web Development, Algorithms  
-- 🤝 I love clean code, UI design, and backend logic  
+- 🔭 Projects: **ATM Management System**, **Portfolio** ,**Calculator**,**Rock Paper Scissors**,**Flappy Bird**,**Snake Game**.  
+- 🌱 Learning: C,C++,HTML,CSS,JAVA,JavaScript Web Development.  
 - 🧩 Currently improving my Git & GitHub workflow  
 
 ---
